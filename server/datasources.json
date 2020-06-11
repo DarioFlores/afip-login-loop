@@ -1,0 +1,9 @@
+{
+  "loginAfipSoapDS": {
+    "url": "https://wsaahomo.afip.gov.ar/ws/services/LoginCms",
+    "name": "loginAfipSoapDS",
+    "wsdl": "https://wsaahomo.afip.gov.ar/ws/services/LoginCms?wsdl",
+    "remotingEnabled": true,
+    "connector": "soap"
+  }
+}
